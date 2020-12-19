@@ -24,7 +24,7 @@
 
 ## Current work
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=danaing&show_icons=true&hide_border=False)](https://github.com/danaing)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Decision-J&show_icons=true&hide_border=False)](https://github.com/Decision-J)
 
 
 <!--
