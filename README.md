@@ -1,5 +1,11 @@
 ### 🤔 I always want to grow up!
 
+## Educations
+- **Master degree of Applied Statistics**
+   (*Especially majored in nonparametric statistics and information theory in graduate school.*)
+- Thesis title: *Bayesian optimization using Hybrid Entropy Search*
+- **Machine Learning & Deep learning** in Statistics Club
+
 ## Competitions
 
 **1. Dacon**
@@ -17,6 +23,8 @@
 - Personality Detection Method Applied to Korean in Text
 
 ## Current work
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=danaing&show_icons=true&hide_border=False)](https://github.com/danaing)
 
 
 <!--
