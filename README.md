@@ -1,10 +1,15 @@
 ### 🤔 I always want to grow up!
 
 ## Educations
-- **Master degree of Applied Statistics**
+- **Master degree of Applied Statistics** (Yonsei univ.)
    (*Especially majored in nonparametric statistics and information theory in graduate school.*)
 - Thesis title: *Bayesian optimization using Hybrid Entropy Search*
 - **Machine Learning & Deep learning** in Statistics Club
+
+## Careers
+- **Samsung Electronics** (2021.02 ~ , Hwasung, Regular) 
+- **Korea Credit Bureau** (2020.07 ~ 2020.08, Seoul, Intern)
+- **Lotte card** (2018.01 ~ 2019.01, Seoul, Regular)
 
 ## Competitions
 
