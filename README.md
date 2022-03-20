@@ -2,7 +2,7 @@
 
 ## Educations
 - **Master degree of Applied Statistics** (Yonsei univ.)
-   (*Especially majored in nonparametric statistics and information theory in graduate school.*)
+  (*Especially majored in nonparametric statistics and information theory in graduate school.*)
 - Thesis title: *Bayesian optimization using Hybrid Entropy Search*
 - **Machine Learning & Deep learning** in Statistics Club
 
